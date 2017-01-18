@@ -1,0 +1,3 @@
+html2text==2016.9.19
+lxml==3.7.2
+pendulum==0.8.0
