@@ -26,11 +26,11 @@ Then install the requirements
 
 Convert all notes from Misc.enex to html / pdf / images and save the result to ./test
 
-```./import.py --out test```
+```./export.py --out test```
 
 
 Convert all notes to text (this doesn't work for en-media notes)
 
-```./import.py --to_text --out test```
+```./export.py --to_text --out test```
 
 
